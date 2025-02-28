@@ -64,4 +64,9 @@ git cat-file <SHA1> прочтение файлов
 
 git revert HEAD --no-edit     удаляет комиты
 
+git reset --soft HEAD~1  мягко  сбрасывает 1 последний комит
+
+git reset --hard HEAD~1 жестко сбрасывает и удалят изменения
+
+git ls-files    показывает какие файлы готовы для коммита(команда после  git add <file- name>)
 
