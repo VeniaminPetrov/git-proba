@@ -78,4 +78,13 @@ git reset --soft HEAD~1  мягко  сбрасывает 1 последний �
 git reset --hard HEAD~1 жестко сбрасывает и удалят изменения
 
 git ls-files    показывает какие файлы готовы для коммита(команда после  git add <file- name>)
+=============================================
+порядок заполнения  терминала для создания репозитория на  GIT HUB
+echo "# front" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/VeniaminPetrov/front.git
+git push -u origin main
 
