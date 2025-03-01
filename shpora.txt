@@ -41,6 +41,8 @@ git merge branch-name — совмещает текущую ветку с branch
 4.git branch -vv  какс вязаны ветки ра локальной машине и на удаленной
 5.git remote проверяет о наличии серверов
 
+git log
+git log --pretty=oneline   log в строку    c флагами   or --max-count=3   или  --all  or --author="AUTHOR"
 
 
 git config
