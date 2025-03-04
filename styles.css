@@ -1,0 +1,27 @@
+
+
+
+.myContainer{
+
+
+    border-style: double;
+    border-radius: 50px;
+
+    height: 400px;
+    background-color: aquamarine;
+
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+
+    height: 400px;
+
+}
+.child{
+    width: 350px;
+    text-align: center;
+    margin: auto;
+    font-size: 50px;
+    background-color: aquamarine;
+}

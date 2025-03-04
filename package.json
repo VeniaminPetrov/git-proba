@@ -4,8 +4,11 @@
   "description": "JAST simple examination",
   "main": "scripte.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "index.html"
   },
   "author": "Veniamin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
 }
