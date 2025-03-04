@@ -3,8 +3,25 @@ error 2
 error 3
 error 4
 errrrrrrrorororororo 88
+<<<<<<< HEAD
 
 errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr99
 
 erererewrwerewrewrewrewr100
+=======
+>>>>>>> parent of e655a19 (errrrrrr99)
+sadfrdfhdyjtym jkuk4275224
+
+51
+5561
+51561
+15
+151
+515
+61651
+5615
+151
+51
+56165
+11
 erererewrwerewrewrewrewr100
